@@ -11,9 +11,11 @@
  <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" width="40" height="40"/>
  <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>  
  <img src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor" alt="pycharm" width="40" height="40"/>
- <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>
+ <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>
  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="CPP" width="40" height="40"/>
- <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="HTML" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>
+<img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="nodeJS" width="40" height="40"/>
+	
 
 </p>
 
