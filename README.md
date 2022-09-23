@@ -12,7 +12,9 @@
  <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>  
  <img src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor" alt="pycharm" width="40" height="40"/>
  <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>
- <img src="https://user-images.githubusercontent.com/75911392/182019236-6a5fba18-f791-4a17-a737-e407ae54f131.png" alt="jmeter" width="80" height="40"/>
+ <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="CPP" width="40" height="40"/>
+ <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="HTML" width="40" height="40"/>
+
 </p>
 
 <p align="center">
