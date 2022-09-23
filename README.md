@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Front and Backend Webdevelopment and SQL Databases management.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/sami-alquraishi-082306209/">LinkedIn</a>,
 https://samialq99.github.io/ , https://my.indeed.com/p/d4b5f1o
-Sample App I uploaded to Heroku https://streamlitsami.herokuapp.com/
+- Sample App I uploaded to Heroku https://streamlitsami.herokuapp.com/
 
 - **Languages and Tools:**
  <p align="left">
