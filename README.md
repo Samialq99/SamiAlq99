@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with C# .Net and NodeJs.
 - 🌱 I’m currently learning Front and Backend Webdevelopment and SQL Databases management.
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/h%C3%BCsna-poyraz/">LinkedIn</a>, <a href = "https://husnapoyraz.medium.com/">Medium</a>
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/sami-alquraishi-082306209/">LinkedIn</a>,
 - **Languages and Tools:**
  <p align="left">
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
