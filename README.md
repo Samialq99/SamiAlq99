@@ -14,7 +14,7 @@
  <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>
  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="CPP" width="40" height="40"/>
   <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>
-<img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="nodeJS" width="40" height="40"/>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="nodeJS" width="40" height="40"/>
 	
 
 </p>
