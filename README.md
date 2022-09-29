@@ -1,7 +1,7 @@
 ### Hi,I'm Sami 👋
 
 - 🔭 I’m currently working with C# .Net and NodeJs.
-- 🌱 I’m currently working on bettering my Front and Backend Webdevelopment, PostgreSQL (Database management).
+- 🌱 I’m currently working on bettering my Front and Backend Webdevelopment, PostgreSQL (database management).
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/sami-alquraishi-082306209/">LinkedIn</a>,
 https://samialq99.github.io/ , https://my.indeed.com/p/d4b5f1o
 - Sample App I uploaded to Heroku https://streamlitsami.herokuapp.com/
