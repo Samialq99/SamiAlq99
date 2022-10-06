@@ -1,4 +1,4 @@
-### Hi,I'm Sami 👋
+### Hi, I'm Sami 👋
 
 - 🔭 I’m currently working with C# .Net and NodeJs.
 - 🌱 Also currently working on bettering my Front and Backend Web development, PostgreSQL (database management).
